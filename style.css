@@ -13,7 +13,7 @@ body {
 }
 .row:after {
     content: "";
-    display: table;
+    display: grid;
     clear: both;
 }
 .column {
