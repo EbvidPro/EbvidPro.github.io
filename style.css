@@ -3,6 +3,7 @@ body {
     padding: 60px;
     color: white;
     font-size: 20px;
+    font-family: 'Inter', sans-serif;
 }
 .row {
     background-color: hsl(244, 38%, 16%);
